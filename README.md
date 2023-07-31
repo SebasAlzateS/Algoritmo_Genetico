@@ -1,5 +1,5 @@
 
-# Algoritmo genético
+# # Controladores P, PI y PID - Método: Algoritmo Genético
 
 Controladores P, PI y PID para funciones de transferencia de primer y segundo orden utilizando algoritmos genéticos.
 
